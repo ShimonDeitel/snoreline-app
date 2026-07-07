@@ -1,0 +1,27 @@
+{
+  "identifier": "0",
+  "nonRenewingSubscriptions": [],
+  "products": [
+    {
+      "displayPrice": "3.99",
+      "familyShareable": false,
+      "internalID": "0",
+      "localizations": [
+        {
+          "description": "Trigger frequency report, exportable for doctor visits.",
+          "displayName": "Trigger Report",
+          "locale": "en_US"
+        }
+      ],
+      "productID": "com.shimondeitel.snorediary2.pro",
+      "referenceName": "Trigger Report",
+      "type": "NonConsumable"
+    }
+  ],
+  "settings": {},
+  "subscriptionGroups": [],
+  "version": {
+    "major": 3,
+    "minor": 1
+  }
+}
